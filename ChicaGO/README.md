@@ -1,7 +1,7 @@
-Name: ChicaGO!
+Name: ChicaGO
 
 KeyWords: Intuitive, Affordable, Trustworthy
 
-In this iteration add two animations, in the first paragraph after the header and in the main map, in addition 3 dataSets were added that provide only the name of the place where the marker lies.
+In this iteration integrate a DataSet of climate, so that it shows in function of this information a different background image. There is still a lack of new information visualization and integration of the Zillow DataSet to detail the user.
 
-It was successfully tested in Google Chrome version 56.0.2924.87 (64-bit), Mozilla Firefox version 52.0.2 (32-bit) and Microsoft Edge version 38.14393.0.0
+It was successfully tested in Mozilla Firefox version 52.0.2 (64-bit) like  "security.mixed_content.block_active_content" unlocked 
