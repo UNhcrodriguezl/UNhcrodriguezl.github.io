@@ -1,6 +1,12 @@
-//variables for map
-var map;
+/**
+Author: Priyank Jain
+This is the core js logic for adding markes and radarchart for Purdue 2016 Ironhacks Tutorials
+**/
 
+//variables for map and marks
+
+var map;
+// 2-level array for washed markets data
 
 
 
